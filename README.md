@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Jo%C3%A3o+Mendes;AI+Researcher+%26+MSc+Student;Apaixonado+por+Programa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Jo%C3%A3o+Mendes;AI+Researcher+%26+MSc+Student;Apaixonado+por+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -15,9 +15,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Mestrando em Engenharia da Computação** pela UPE e Desenvolvedor. Meu foco é criar soluções inovadoras unindo sistemas web e também desenvolvendo inteligências artificiais na área da saúde.
+Sou **Mestrando em Engenharia da Computação** pela UPE e Desenvolvedor. Meu foco é criar soluções inovadoras unindo sistemas web e inteligência artificial na área da saúde.
 
-- 🔭 **Atualmente:** Pesquisando Machine Learning aplicadas à saúde.
+- 🔭 **Atualmente:** Pesquisando Machine Learning aplicado à saúde.
 - 💼 **Experiência:** Desenvolvimento de ERPs têxteis, sistemas de logística e plataformas de gestão.
 - 🌱 **Stack Principal:** React, Next.js, Node.js & Python (AI).
 - 📄 **Publicação Recente:** Detecção automatizada de pneumonia com CNNs.
@@ -27,7 +27,6 @@ Sou **Mestrando em Engenharia da Computação** pela UPE e Desenvolvedor. Meu fo
 ### 🚀 Tech Stack
 
 <div align="center">
-  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -59,13 +58,7 @@ Sou **Mestrando em Engenharia da Computação** pela UPE e Desenvolvedor. Meu fo
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/jmendes-victor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmendes-victor&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmendes-victor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </a>
-</div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmendes-victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmendes-victor&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmendes-victor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
