@@ -55,18 +55,8 @@ Sou **Mestrando em Engenharia da Computação** pela UPE e Desenvolvedor. Meu fo
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Opção Alternativa)
 
 <div align="center">
-  <a href="https://github.com/jmendes-victor">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmendes-victor&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/jmendes-victor">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmendes-victor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmendes-victor&theme=tokyonight&hide_border=true" />
+  <img src="https://metrics.lecoq.io/jmendes-victor?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=1&languages=1&languages.limit=6" />
 </div>
