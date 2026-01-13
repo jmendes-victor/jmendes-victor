@@ -19,7 +19,7 @@ Sou **Mestrando em Engenharia da Computação** pela UPE e Desenvolvedor. Meu fo
 
 - 🔭 **Atualmente:** Pesquisando Machine Learning aplicado à saúde.
 - 💼 **Experiência:** Desenvolvimento de ERPs têxteis, sistemas de logística e plataformas de gestão.
-- 🌱 **Stack Principal:** React, Next.js, Node.js & Python (AI).
+- 🌱 **Stack Principal:** React, Next.js, Node.js e Python.
 - 📄 **Publicação Recente:** Detecção automatizada de pneumonia com CNNs.
 
 ---
