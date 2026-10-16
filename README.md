@@ -14,7 +14,7 @@ Sou desenvolvedor e mestrando em Engenharia da Computação na Universidade de P
 - **Pesquisa atual:** previsão do desfecho do tratamento da tuberculose no Brasil a partir de dados do SINAN
 - **Docência:** estágio de docência em Tópicos Avançados em Inteligência Artificial (UPE Caruaru)
 - **Experiência:** ERPs para a indústria têxtil, sistemas de logística e plataformas de gestão
-- **Publicação:** [Detecção automatizada de pneumonia com CNNs](LINK_DO_ARTIGO)
+- **Publicação:** [Detecção automatizada de pneumonia com CNNs](https://ojs.studiespublicacoes.com.br/ojs/index.php/cadped/article/view/15174)
 
 ## Tecnologias
 
