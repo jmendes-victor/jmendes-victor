@@ -1,68 +1,36 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Jo%C3%A3o+Victor;Pesquisador+e+Estudante+de+Mestrado;Apaixonado+por+tecnologia" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/jmendesvictor/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:jonh_victor@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Victor;Desenvolvedor+e+mestrando+na+UPE;Machine+Learning+aplicado+%C3%A0+sa%C3%BAde" alt="Olá, eu sou o João Victor" />
+
+  <p>
+    <a href="https://www.linkedin.com/in/jmendesvictor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:jonh_victor@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
-<br/>
+## Sobre mim
 
-### 👨‍💻 Sobre Mim
+Sou desenvolvedor e mestrando em Engenharia da Computação na Universidade de Pernambuco (PPGEC/UPE). No trabalho, construo sistemas web. Na pesquisa, uso machine learning para problemas de saúde pública.
 
-Sou **Mestrando em Engenharia da Computação** pela UPE e Desenvolvedor. Meu foco é criar soluções inovadoras unindo sistemas web e inteligência artificial na área da saúde.
+- **Pesquisa atual:** previsão do desfecho do tratamento da tuberculose no Brasil a partir de dados do SINAN
+- **Docência:** estágio de docência em Tópicos Avançados em Inteligência Artificial (UPE Caruaru)
+- **Experiência:** ERPs para a indústria têxtil, sistemas de logística e plataformas de gestão
+- **Publicação:** [Detecção automatizada de pneumonia com CNNs](LINK_DO_ARTIGO)
 
-- 🔭 **Atualmente:** Pesquisando Machine Learning aplicado à saúde.
-- 💼 **Experiência:** Desenvolvimento de ERPs têxteis, sistemas de logística e plataformas de gestão.
-- 🌱 **Stack Principal:** React, Next.js, Node.js e Python.
-- 📄 **Publicação Recente:** Detecção automatizada de pneumonia com CNNs.
+## Tecnologias
 
----
+**Web**
 
-### 🚀 Tech Stack
+<img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,tailwind,vite,nodejs" alt="JavaScript, TypeScript, PHP, React, Next.js, Tailwind, Vite, Node.js" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+**Dados e IA**
 
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,postgres,mongodb" alt="Python, scikit-learn, PyTorch, TensorFlow, PostgreSQL, MongoDB" />
 
-  <br/>
-  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
+Também trabalho com SQL Server.
 
----
-
-### 📊 GitHub Stats
+## GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmendes-victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmendes-victor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmendes-victor&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmendes-victor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmendes-victor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
 </div>
