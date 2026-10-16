@@ -8,45 +8,43 @@
 
 </div>
 
-### `~/perfil.yaml`
+<br/>
 
-```yaml
-nome: João Victor Mendes de Lira
-cargo:
-  - Desenvolvedor de software
-  - Mestrando em Engenharia da Computação (PPGEC/UPE)
+```console
+$ whoami
+João Victor Mendes de Lira
+dev full stack e mestrando em Engenharia da Computação (PPGEC/UPE)
 
-pesquisa:
-  linha: machine learning aplicado à saúde pública
-  projeto: previsão do desfecho do tratamento da tuberculose no Brasil
-  dados: SINAN, 2014 a 2024
-  status: em andamento
+$ cat pesquisa.txt
+machine learning aplicado à saúde pública
+previsão do desfecho do tratamento da tuberculose no Brasil (SINAN, 2014 a 2024)
 
-docencia: Tópicos Avançados em Inteligência Artificial, UPE Caruaru
-experiencia: [ERPs têxteis, logística, plataformas de gestão]
+$ cat experiencia.txt
+ERPs para a indústria têxtil, sistemas de logística e plataformas de gestão
+estágio de docência em Tópicos Avançados em IA, UPE Caruaru
 
-stack:
-  linguagens: [JavaScript, TypeScript, Python, PHP]
-  web: [React, Next.js, Node.js, Tailwind CSS, Vite]
-  dados_ia: [scikit-learn, PyTorch, TensorFlow]
-  bancos: [PostgreSQL, SQL Server, MongoDB]
+$ ls stack/
 ```
-
-### `~/treino.log`
-
-```mermaid
-%%{init: {"themeVariables": {"xyChart": {"plotColorPalette": "#5CC8FF, #FFB547", "backgroundColor": "#0E1424", "titleColor": "#DCE4F2", "xAxisLabelColor": "#7F8BA3", "xAxisTitleColor": "#7F8BA3", "xAxisTickColor": "#4A5672", "xAxisLineColor": "#4A5672", "yAxisLabelColor": "#7F8BA3", "yAxisTitleColor": "#7F8BA3", "yAxisTickColor": "#4A5672", "yAxisLineColor": "#4A5672"}}}}%%
-xychart-beta
-  title "perda por época (azul: treino, laranja: validação)"
-  x-axis "época" [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
-  y-axis "perda" 0 --> 2.5
-  line [2.40, 1.62, 1.14, 0.86, 0.66, 0.52, 0.42, 0.35, 0.29, 0.25, 0.22, 0.20]
-  line [2.45, 1.75, 1.31, 1.04, 0.86, 0.74, 0.66, 0.60, 0.56, 0.53, 0.51, 0.50]
-```
-
-### `~/atividade`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmendes-victor&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=10&bg_color=0E1424&title_color=5CC8FF&text_color=DCE4F2&icon_color=FFB547" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmendes-victor&layout=compact&langs_count=6&locale=pt-br&hide_border=true&border_radius=10&bg_color=0E1424&title_color=5CC8FF&text_color=DCE4F2" alt="Linguagens mais usadas" />
+
+<img src="https://img.shields.io/badge/JavaScript-0E1424?style=for-the-badge&logo=javascript&logoColor=5CC8FF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-0E1424?style=for-the-badge&logo=typescript&logoColor=5CC8FF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-0E1424?style=for-the-badge&logo=python&logoColor=5CC8FF" alt="Python" />
+<img src="https://img.shields.io/badge/PHP-0E1424?style=for-the-badge&logo=php&logoColor=5CC8FF" alt="PHP" />
+<br/>
+<img src="https://img.shields.io/badge/React-0E1424?style=for-the-badge&logo=react&logoColor=5CC8FF" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0E1424?style=for-the-badge&logo=nextdotjs&logoColor=5CC8FF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-0E1424?style=for-the-badge&logo=nodedotjs&logoColor=5CC8FF" alt="Node.js" />
+<img src="https://img.shields.io/badge/Tailwind-0E1424?style=for-the-badge&logo=tailwindcss&logoColor=5CC8FF" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-0E1424?style=for-the-badge&logo=vite&logoColor=5CC8FF" alt="Vite" />
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-0E1424?style=for-the-badge&logo=scikitlearn&logoColor=FFB547" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/PyTorch-0E1424?style=for-the-badge&logo=pytorch&logoColor=FFB547" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-0E1424?style=for-the-badge&logo=tensorflow&logoColor=FFB547" alt="TensorFlow" />
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0E1424?style=for-the-badge&logo=postgresql&logoColor=5CC8FF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL%20Server-0E1424?style=for-the-badge" alt="SQL Server" />
+<img src="https://img.shields.io/badge/MongoDB-0E1424?style=for-the-badge&logo=mongodb&logoColor=5CC8FF" alt="MongoDB" />
+
 </div>
